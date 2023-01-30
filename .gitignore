@@ -1,0 +1,3 @@
+# ignore makefiles folder
+.makefiles/
+.gitignore_files/
