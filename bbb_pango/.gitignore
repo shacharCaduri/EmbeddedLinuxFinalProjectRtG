@@ -1,0 +1,6 @@
+# ignore .elf / .exe / .out files
+*.elf
+*.exe
+*.out
+
+

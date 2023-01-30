@@ -1,0 +1,7 @@
+# ignore .elf / .exe / .out files
+*.elf
+*.exe
+*.out
+
+# ignore Debug folder created by CubeIDE 
+Debug/
